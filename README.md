@@ -1,1 +1,1 @@
-Open source Java taxes calculator. Use it for calculating how much taxes you have to pay over your gains. You can edit anything you want :)
+Calculadora de impuestos open source hecha con java. Se puede utilizar para calcular impuestos sobre ganancias en bolsa y criptomonedas, aunque para ello deberás editar los impuestos y los rangos de precios puesto que los he hecho al azar. 
